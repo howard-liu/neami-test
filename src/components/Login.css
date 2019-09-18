@@ -1,0 +1,13 @@
+.welcome {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.hint {
+  font-size: 12px;
+}
+
+.red {
+  color: red;
+  font-size: 10px;
+}
